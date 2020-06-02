@@ -1,0 +1,28 @@
+{
+  "name": "playlist",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp",
+    "build": "gulp styles-prod"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexcss/playlist.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexcss/playlist/issues"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.5",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0",
+    "node-sass": "^4.14.0",
+    "gulp-sourcemaps": "^2.6.5"
+  },
+  "homepage": "https://github.com/alexcss/playlist#readme",
+  "description": ""
+}
